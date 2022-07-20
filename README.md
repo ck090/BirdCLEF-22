@@ -1,4 +1,4 @@
-## # Visual Saliency Transformer (VST)
+##  Visual Saliency Transformer (VST)
 
 source code for our paper on "The birds need attention too: Analysing usage of Self Attention in identifying bird calls in soundscapes" by Chandra Kanth Nagesh and Abhishek Purushothama
 
