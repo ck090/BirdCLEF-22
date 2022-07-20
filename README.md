@@ -1,4 +1,4 @@
-##  Visual Saliency Transformer (VST)
+## The birds need attention too
 
 source code for our paper on "The birds need attention too: Analysing usage of Self Attention in identifying bird calls in soundscapes" by Chandra Kanth Nagesh and Abhishek Purushothama
 
@@ -9,5 +9,9 @@ Birds are vital parts of ecosystems across the world and are an excellent measur
 
 ## Conclusion
 Our experiments have shown that the Audio Spectrogram Transformer baseline outperforms the convolutional baseline. The AST which had been trained on audio sounds represented as spectograms, showed better performance than conventional visual style pre-trained EfficientNet. The goal of this was for recommendation of backbone for the BirdCLEF tasks. Using AST instead of convolutional backbones, may provide better performance in the task going forward. Even if it is not unequivocal, AST has to be is a for the task.
+
+## Results
+<img width="437" alt="image" src="https://user-images.githubusercontent.com/12717969/179870344-5f8a9c91-4d4f-4fc9-a8ab-1799f1364e4c.png">
+<img width="478" alt="image" src="https://user-images.githubusercontent.com/12717969/179870449-a0a4f1f8-af08-42a7-83ae-75e19d371546.png">
 
 ## Citation
