@@ -19,3 +19,14 @@ For our PANN-Bird models we re-used the original code from the PANNs paper avail
 <img width="478" alt="image" src="https://user-images.githubusercontent.com/12717969/179870449-a0a4f1f8-af08-42a7-83ae-75e19d371546.png">
 
 ## Citation
+Please cite our work if found helpful.
+```
+@misc{nagesh2022birds,
+      title={The Birds Need Attention Too: Analysing usage of Self Attention in identifying bird calls in soundscapes}, 
+      author={Chandra Kanth Nagesh and Abhishek Purushothama},
+      year={2022},
+      eprint={2211.07722},
+      archivePrefix={arXiv},
+      primaryClass={cs.MM}
+}
+```
